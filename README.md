@@ -22,7 +22,7 @@ git clone https://github.com/0xevoid/PRC20-MINT.git
 ### 2. Membuat lingkungan virtual Python (langkah opsional)
 
 ```
-cd PRC20 MINT
+cd PRC20-MINT
 python -m venv venv
 source venv/bin/activate
 ```
