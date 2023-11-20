@@ -29,8 +29,8 @@ source venv/bin/activate
 ### 3. Instal dependensi
 
 ```
-pip instal web3==6.11.3
-pip instal python-dotenv==1.0.0
+pip install web3==6.11.3
+pip install python-dotenv==1.0.0
 ```
 ### 4. Tulis alamat dan kunci pribadi di file .env
 
